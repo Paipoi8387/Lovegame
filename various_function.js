@@ -761,7 +761,7 @@ function player_only_one() {
 
 //ページ遷移用の関数
 function change_page() {
-    location.href = "game_start.html";
+    location.href = "index.html";
 }
 //デッキが空になったときの処理をする
 function deck_empty() {
